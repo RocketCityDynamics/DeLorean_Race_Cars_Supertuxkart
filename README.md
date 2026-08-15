@@ -5,4 +5,4 @@ Clone entire folder to ~/.local/share/supertuxkart/addons/karts in Debian 13 on 
 
 It should pop up as a playable car on the main menu.
 
-/Widebody_tuxkart3.jpg
+![Alt Text](/Widebody_tuxkart3.jpg)
