@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kart name              = "DKart1"
+      version           = "3"
+      model-file        = "dkart1.spm"
+      icon-file         = "icon.png"
+      minimap-icon-file = "icon.png"
+      shadow-file       = "genericshadow.png"
+      type              = "medium"
+      groups            = "standard"
+      rgb               = "1.00 1.00 1.00" >
+  <sounds engine = "large">
+      <skid name="default"/>
+  </sounds>
+  <wheels>
+    <front-left position = "-0.426249 0.151362 0.680910"
+                 model    = "wheel-front-left.spm"       />
+    <rear-left position = "-0.443813 0.170433 -0.594162"
+                 model    = "wheel-rear-left.spm"       />
+    <front-right position = "0.424738 0.151362 0.681889"
+                 model    = "wheel-front-right.spm"       />
+    <rear-right position = "0.445233 0.170433 -0.593140"
+                 model    = "wheel-rear-right.spm"       />
+  </wheels>
+  <exhaust file="kart_exhaust.xml"/>
+</kart>
